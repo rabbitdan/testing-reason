@@ -6,7 +6,7 @@ export const useMenuStore = defineStore('Menu', {
       name: 'main',
       items: [
         {
-          url: 'home',
+          url: '/',
           text: 'Home'
         },
         {
