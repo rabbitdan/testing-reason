@@ -7,12 +7,6 @@ export default {
     RouterLink,
     TheBurger
   },
-  props: {
-    current: {
-      type: String,
-      required: false
-    },
-  },
   data() {
     return {
       open: false,
